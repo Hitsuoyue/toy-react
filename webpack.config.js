@@ -1,7 +1,7 @@
 const { LibManifestPlugin } = require("webpack");
 
 module.exports = {
-    entry: './main.js',
+    entry: './src/main.js',
     module: {
         rules: [
             {
